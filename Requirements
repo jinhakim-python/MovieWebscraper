@@ -1,1 +1,4 @@
-Requirements: bs4 (beautiful soup) and requests
+Requirements: 
+- bs4 (beautiful soup) 
+- requests
+- Internet connection
